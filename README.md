@@ -11,7 +11,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-
 <p align='center'>
 <img src="https://www.flaticon.com/svg/vstatic/svg/13/13706.svg?token=exp=1618489370~hmac=35fe77c2fc6b5acf0e13906ef44d2f81" alt="css3"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
@@ -22,15 +21,11 @@
 <img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111425.svg?token=exp=1618488801~hmac=a9b1bdd1ee904de5399163a2eb3ab18d" alt="github" width="20" height="20"/>
 </p>
 
-<br/>
-
-<h2 align="center">Stats</h2>
-
+<h2 align="center">Stats:</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=danielusi&show_icons=true" alt="danielusi"/> 
 </p>
-
 
 <p align="center">
 <a href="https://www.linkedin.com/in/danielbenicio/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/179/179330.svg?token=exp=1618487558~hmac=71e08710c20222f43c23e9f275977ddd" alt="danielusi" height="20" width="20" /></a>
