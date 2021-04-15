@@ -30,5 +30,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/danielbenicio/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/179/179330.svg?token=exp=1618487558~hmac=71e08710c20222f43c23e9f275977ddd" alt="danielusi" height="20" width="20" /></a>
 <a href="https://www.facebook.com/daniel.benicio.90/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/179/179319.svg?token=exp=1618487435~hmac=9487547fd3f3c66a4951923a15e493ee" alt="danielusi" height="20" width="20" /></a>
+<a href="https://dribbble.com/danielusi" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1532/1532541.svg?token=exp=1618498794~hmac=c386edf2dcc422dc9e78af89b041a411" alt="danielusi" height="20" width="20" /></a>
+  
 </p>
 
