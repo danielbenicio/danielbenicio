@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 </p>
 
-<h2 align="center">Stats</h3>
+<h2 align="center">Stats 📈 </h3>
 
 
 <p align="center">
