@@ -9,7 +9,7 @@
 - 🎓 I'm looking to colaborate with other developers
 - 📫 How to reach me: **danielbenicio123@gmail.com**
 
-<h4 align="center">Languages and Tools:</h4>
+<h4 align="left">Languages and Tools:</h4>
 
 <p align='left'>
 <img src="https://www.flaticon.com/svg/vstatic/svg/13/13706.svg?token=exp=1618489370~hmac=35fe77c2fc6b5acf0e13906ef44d2f81" alt="css3"  width="20" height="20"/>
@@ -21,7 +21,7 @@
 <img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111425.svg?token=exp=1618488801~hmac=a9b1bdd1ee904de5399163a2eb3ab18d" alt="github" width="20" height="20"/>
 </p>
 
-<h2 align="left">Stats:</h2>
+<h2 align="center">Stats:</h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=danielusi&show_icons=true" alt="danielusi"/> 
