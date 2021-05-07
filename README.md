@@ -16,9 +16,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://www.flaticon.com/svg/vstatic/svg/906/906324.svg?token=exp=1618489190~hmac=4cf1f01582fb7aebdfa582cc0d86de12" alt="visual" width="20" height="20"/>
 <img src="https://www.flaticon.com/svg/vstatic/svg/1822/1822899.svg?token=exp=1618489257~hmac=2b650172236cf7291f0a98f02383de71" alt="python" width="20" height="20"/>
-<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111425.svg?token=exp=1618488801~hmac=a9b1bdd1ee904de5399163a2eb3ab18d" alt="github" width="20" height="20"/>
 </p>
 
 <h2 align="center">Stats:</h2>
@@ -28,6 +26,6 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/danielbenicio/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/179/179330.svg?token=exp=1618487558~hmac=71e08710c20222f43c23e9f275977ddd" alt="linkedin" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/danielbenicio/" target="blank"><img align="center" src="https://img.shields.io/badge/-Daniel%20Benício-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes" alt="linkedin" height="25" width="150" /></a>
 </p>
 
