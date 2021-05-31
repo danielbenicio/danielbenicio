@@ -19,8 +19,6 @@
 <img src="https://www.flaticon.com/svg/vstatic/svg/1822/1822899.svg?token=exp=1618489257~hmac=2b650172236cf7291f0a98f02383de71" alt="python" width="20" height="20"/>
 </p>
 
-<h2 align="center">Stats:</h2>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/?username=danielusi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="danielusi"/> 
 </p>
