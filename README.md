@@ -1,12 +1,12 @@
 
-<h3 align="center">"The mind that opens up to a new idea will never return to its original size" - Albert Einstein</h3>
+<h3 align="center">"A mente que se abre para uma nova ideia nunca mais voltará ao seu tamanho original" - Albert Einstein</h3>
 
 <br/>
 
-- 🔭 I’m currently working on new projects
-- 🌱 I’m currently perfecting programming
-- 🎓 I'm looking to colaborate with other developers
-- 📫 How to reach me: **danielbenicio123@gmail.com**
+- 🔭 Atualmente, estou trabalhando em novos projetos
+- 🌱 Continuamente aperfeiçoando a programação
+- 🎓 Estou procurando colaborar com outros desenvolvedores
+- 📫 Como entrar em contato comigo: **danielbenicio123@gmail.com**
 
 <h4 align="left">Languages and Tools:</h4>
 
