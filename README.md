@@ -1,4 +1,3 @@
-<h1 align="center">🚀 Always looking to improve 🚀</h1>
 
 <h3 align="center">"The mind that opens up to a new idea will never return to its original size" - Albert Einstein</h3>
 
