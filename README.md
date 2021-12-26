@@ -1,6 +1,6 @@
 ### Sobre mim:
 
-- 💻 Atualmente, estou trabalhando em novos projetos
+- 💻 Atualmente estudando React
 - 🌱 Continuamente aperfeiçoando a programação
 - 📫 Como entrar em contato comigo: **danielbenicio123@gmail.com**
 
@@ -22,4 +22,3 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
