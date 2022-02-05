@@ -1,24 +1,10 @@
-### Sobre mim:
+Software Developer <b>@Lab2Dev.</b>
 
-- 💻 Atualmente estudando React
-- 🌱 Continuamente aperfeiçoando a programação
-- 📫 Como entrar em contato comigo: **danielbenicio123@gmail.com**
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielbenicio/)
+[![Gmail Badge](https://img.shields.io/badge/gmail--%2300EBEB?style=for-the-badge&logo=gmail)](danielbenicio123@gmail.com)
 
-<h4 align="left">Languages and Tools:</h4>
+I’m a developer specialized in delivering high-quality Front-end solutions. Enthusiast of the best web development technologies. I enjoy exploring the capabilities of modern tools, which leads engineering towards new, flexible solutions.
 
-### Tecnologias:
+Tools: ReactJS, TypeScript, CSS-in-JS, Node.js, Express, PostgreSQL. <br />
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-
-<br />
-
-### Ferramentas
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
-<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
-
+"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
