@@ -1,7 +1,7 @@
 Software Developer <b>@Lab2Dev.</b>
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielbenicio/)
-[![Gmail Badge](https://img.shields.io/badge/danielbenicio123@gmail.com--%2300EBEB?style=for-the-badge&logo=gmail)](mailto:danielbenicio123@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/gmail--%2300EBEB?style=for-the-badge&logo=gmail)](mailto:danielbenicio123@gmail.com)
 
 I’m a developer specialized in delivering high-quality Front-end solutions. Enthusiast of the best web development technologies. I enjoy exploring the capabilities of modern tools, which leads engineering towards new, flexible solutions.
 
